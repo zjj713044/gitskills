@@ -77,64 +77,29 @@
 
 #### 代码输入框
 
-```public class HelloWorld
-{
-      //程序的主函数入门
-
-      public staticvoid main(String args[])
-
-      {
-           //输出打印字符语句
-
-          System.out.println("HelloWorld！");
-
-      }
-
-}
-```
-
-代码输入框2
-
-```
-public class HelloWorld
-
-{
-
-      //程序的主函数入门
-
-      public staticvoid main(String args[])
-
-      {
-
-           //输出打印字符语句
-
-          System.out.println("HelloWorld！");
-
-      }
-
-}
-```
-
-
-
-***
-
-***
-
-***
-
-* ​
-* 122
-* 122
-* 2232
-
-
-
-1. ​
-2. sfsfd
-3. fsfds
-
+---
+---
+---
 ---
 
-***
 
+
+####代码框       
+
+```public class HelloWorld
+{
+
+      //程序的主函数入门
+
+      public staticvoid main(String args[])
+
+      {
+
+           //输出打印字符语句
+
+          System.out.println("HelloWorld！");
+
+      }
+
+}
+```
