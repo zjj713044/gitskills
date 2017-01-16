@@ -86,7 +86,8 @@
 
 ####代码框       
 
-```public class HelloWorld
+```sql
+public class HelloWorld
 {
 
       //程序的主函数入门
